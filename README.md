@@ -11,7 +11,7 @@ O principal objetivo deste projeto é permitir que os usuários acompanhem as co
 <h4>Clone o repositório:</h4>
 
 ```bash
-git clone https://github.com/anakessia/calculator-dual-theme.git
+git clone https://github.com/anakessia/previsao-do-tempo.git
 
 ```
 <h4>Acesse o diretório:</h4>
