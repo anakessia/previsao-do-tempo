@@ -39,5 +39,5 @@ Abra seu navegador e acesse: http://localhost:5173
 
 ## 🤝 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
+<p>Feito por @anakessia</p>
 
